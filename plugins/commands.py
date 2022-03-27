@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('🔔 Updates', url='import os
+                InlineKeyboardButton('🔔 Updates', url='import as
 import logging
 import random
 import asyncio
